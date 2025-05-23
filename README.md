@@ -6,7 +6,7 @@ This is the repository for the LinkedIn Learning course `Docker: Your First Proj
 Docker has a steep learning curve, but is required for most current development environments. Streamlining how you build, share, and run applications can increase your development team’s productivity and let developers focus on the code. This course with instructor Shelley Benhoff provides a step-by-step guide for developers to work with Docker locally. Join Shelley as she takes you through a real-world project and learn how to set up your development environment, write a Dockerfile, build and manage custom images, and run your Docker containers.
 
 ## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access...
 
 ## Branches
 The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
